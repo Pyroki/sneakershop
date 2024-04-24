@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203009389193",
+    "project_id": "sneakershop-99d2c",
+    "storage_bucket": "sneakershop-99d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203009389193:android:a5e0c1c4d57238e7c1cc58",
+        "android_client_info": {
+          "package_name": "com.aditya.sneakerx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wEvnnky665cGeLQKKaUQzZK8mZwsxCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203009389193:android:df1122340d2c45bbc1cc58",
+        "android_client_info": {
+          "package_name": "com.example.sneakershop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2wEvnnky665cGeLQKKaUQzZK8mZwsxCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
